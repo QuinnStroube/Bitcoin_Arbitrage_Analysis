@@ -9,19 +9,19 @@
 ## Installation Guide
  ### Pandas
      Import Pandas for Analysis
-     '''python
+     ```python
      import pandas as pd
-     '''
+     ```
  ### Path    
      Import path variable
-     '''pyhton
+     ```pyhton
      from pathlib import Path
-     '''
+     ```
  ### Matplotlib    
      Import matplotlib for plotting the data
-     '''python
+     ```python
      %matplotlib inline
-     '''
+     ```
      
 ---
 ## Usage
